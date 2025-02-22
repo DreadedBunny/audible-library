@@ -1,0 +1,1 @@
+window.userReviewsJSON = [{"asin":"B01N48VJFJ","ratings":[{"name":"Overall","stars":"3"},{"name":"Performance","stars":"4"},{"name":"Story","stars":"2"}],"summary":"<p> I enjoyed the initial plot line, but then the magic beer can, Skippy, simply solves all problems by waving his figurative hand. </p>","title":"Good initial storyline, but then a magic beer can"}];
